@@ -1,5 +1,6 @@
 {
   "name": "frontend-battle",
+  "description": "Ravindra's IAS Academy - A premium coaching website for UPSC Civil Services and other government exams (State PCS, SSC, Judiciary, etc.) featuring interactive learning tools.",
   "private": true,
   "version": "0.0.0",
   "type": "module",

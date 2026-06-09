@@ -2,7 +2,7 @@
 
 # 🏛️ Ravindra's IAS Academy
 
-**An immersive, premium web portal built using React, Three.js, and GSAP. Experience smooth 3D navigation and modern interactivity.**
+**A premium, immersive coaching web portal for UPSC Civil Services Examination (CSE) and other competitive government exams (State PCS, SSC, Judiciary, etc.). Built using React, GSAP, and Three.js, it offers an interactive learning experience with custom mind-maps and performance tracking.**
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Render-34D058?style=for-the-badge&logo=render&logoColor=white)](https://visual-identity-e2yc.onrender.com)
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
